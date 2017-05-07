@@ -114,11 +114,12 @@ header .list-inline {
     }
 
     header .intro-text .name {
+    padding-top: 10px;
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.75em;
-    font-weight: 700;
+    font-weight: 650;
 }
 
     header .intro-text .school {
