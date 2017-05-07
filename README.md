@@ -1,4 +1,4 @@
-Building a personal website using the Freelancer Jekyll theme
+Personal website using the Freelancer Jekyll theme
 =========================
 
 A website showcase my CS skills using [Jekyll](https://jekyllrb.com/) and the [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
