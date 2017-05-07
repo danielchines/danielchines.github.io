@@ -116,10 +116,15 @@ header .intro-text .name {
     font-weight: 500;
 }
 
-header .intro-text .skills {
+header .intro-text .skills1 {
     font-size: 1.25em;
     line-height: 1em;
     font-weight: 300;
+}
+header .intro-text .skills2 {
+    font-size: 0.9em;
+    line-height: 1em;
+    font-weight: 200;
 }
 
 @media(min-width:768px) {
