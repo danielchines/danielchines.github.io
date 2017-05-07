@@ -106,18 +106,11 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1.2em;
+    font-size: 4em;
     font-weight: 500;
 }
 
-header .intro-text .school {
-    font-size: 2em;
-    font-weight: 300;
-}
-header .intro-text .major {
-    font-size: 1.5em;
-    font-weight: 200;
-}
+
 
 @media(min-width:768px) {
     header .container {
@@ -126,11 +119,17 @@ header .intro-text .major {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 4em;
     }
 
-    header .intro-text .skills {
-        font-size: 1.75em;
+    header .intro-text .school {
+        font-size: 2em;
+        font-weight: 300;
+    }
+    
+    header .intro-text .major {
+        font-size: 1.5em;
+        font-weight: 200;
     }
 }
 
