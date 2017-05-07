@@ -86,8 +86,8 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
 
 header img {
@@ -96,7 +96,8 @@ header img {
 }
 
 header .header-col {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 header .intro-text .name {
