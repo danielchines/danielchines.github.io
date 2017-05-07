@@ -83,11 +83,12 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    padding-bottom: 0px;
 }
 
 header .container {
     padding-top: 20px;
-    padding-bottom: 0px;
+    padding-bottom: 30px;
 }
 
 
@@ -98,7 +99,7 @@ header img {
 }
 
 header .header-col {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
     display: block;
     width: 30%;
@@ -120,8 +121,8 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 30px;
+        padding-bottom: 20px;
     }
 
     header .intro-text .name {
