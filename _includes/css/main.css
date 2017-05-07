@@ -114,7 +114,7 @@ header .intro-text .name {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 50px;
+        padding-top: 135px;
         padding-bottom: 30px;
     }
 
@@ -123,12 +123,12 @@ header .intro-text .name {
     }
 
     header .intro-text .school {
-        font-size: 2em;
+        font-size: 1.75em;
         font-weight: 300;
     }
     
     header .intro-text .major {
-        font-size: 1.5em;
+        font-size: 1.25em;
         font-weight: 200;
     }
 }
