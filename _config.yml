@@ -2,9 +2,9 @@
 title: Daniel Hines
 email: daniel.c.hines@vanderbilt.edu
 url: https://danielchines.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A simple github website to display my resume and personal projects. Site created using Jekyll and the Freelancer Bootstrap theme."
 skills: "Computer Science & Engineering Management"
-meta_author: danielchines
+meta_author: Daniel Hines
 
 # Google webmaster tools
 google_verify:
@@ -20,8 +20,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 5F9EA0 #80B3FF
+  primary-rgb: "95,158,160" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -34,8 +34,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
   - title: stack-overflow
@@ -48,7 +46,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Vanderbilt University '18
-  - line: Computer Science  
+  - line: Computer Science &
+  - line: Engineering Management 
 
 # Credits content
 credits: 'This site was created using <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a>, a free template theme from <a href="http://startbootstrap.com">Start Bootstrap</a>. The source code can be found <a href="https://github.com/jeromelachaud/freelancer-theme">here</a>.'
