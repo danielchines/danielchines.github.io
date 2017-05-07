@@ -93,13 +93,14 @@ header .container {
 
 header img {
     display: block;
-    width: 15%;
+    width: 30%;
     margin: 0 auto 20px;
 }
 
 header .header-col {
     margin-bottom: 20px;
     text-align: center;
+    display: block;
 }
 
 header .intro-text .name {
