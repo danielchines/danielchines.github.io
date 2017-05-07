@@ -86,7 +86,7 @@ header {
 }
 
 header .container {
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 30px;
 }
 
@@ -117,13 +117,11 @@ header .intro-text .name {
 }
 
 header .intro-text .school {
-    font-size: 1.25em;
-    line-height: 1em;
+    font-size: 2em;
     font-weight: 300;
 }
 header .intro-text .major {
-    font-size: 0.9em;
-    line-height: 1em;
+    font-size: 1.5em;
     font-weight: 200;
 }
 
