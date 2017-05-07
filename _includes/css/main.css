@@ -86,8 +86,8 @@ header {
 }
 
 header .container {
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 
@@ -101,6 +101,8 @@ header .header-col {
     margin-bottom: 20px;
     text-align: center;
     display: block;
+    width: 30%;
+    margin: 0 auto 20px;
 }
 
 header .intro-text .name {
@@ -118,7 +120,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
+        padding-top: 100px;
         padding-bottom: 100px;
     }
 
