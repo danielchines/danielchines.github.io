@@ -95,6 +95,10 @@ header img {
     margin: 0 auto 20px;
 }
 
+header .header-col {
+    margin-bottom: 50px;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
