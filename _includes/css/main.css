@@ -79,6 +79,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.list-inline {
+    text-align: center;
+}
+
 header {
     text-align: center;
     color: #fff;
