@@ -79,15 +79,6 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-.list-inline {
-    text-align: center;
-}
-
-ul {
-    width: 30%;
-    margin: auto;
-}
-
 header {
     text-align: center;
     color: #fff;
@@ -99,9 +90,10 @@ header .container {
     padding-bottom: 40px;
 }
 
+
 header img {
     display: block;
-    width: 100px;
+    width: 15%;
     margin: 0 auto 20px;
 }
 
