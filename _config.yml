@@ -3,7 +3,9 @@ title: Daniel Hines
 email: daniel.c.hines@vanderbilt.edu
 url: https://danielchines.github.io
 description: "A simple github website to display my resume and personal projects. Site created using Jekyll and the Freelancer Bootstrap theme."
-skills: "Vanderbilt University '18\nComputer Science and Engineering Management"
+skills: >
+   Vanderbilt University '18  
+   Computer Science and Engineering Management
 meta_author: Daniel Hines
 
 # Google webmaster tools
