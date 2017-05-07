@@ -43,11 +43,6 @@ social:
   - title: github
     url: http://github.com/danielchines
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Computer Science &
-  - line: Engineering Management 
-
 # Credits content
 credits: |
   This site was created using the
