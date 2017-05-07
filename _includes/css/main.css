@@ -83,7 +83,6 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
-    border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
 header img {
@@ -194,6 +193,9 @@ section.success {
     background: rgba({{ site.color.secondary-rgb }},.9);
 }
 
+#row {
+    border-bottom: 1px solid rgba(255,255,255,.25);
+}
 @media(max-width:767px) {
     section {
         padding: 75px 0;
