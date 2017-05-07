@@ -83,6 +83,7 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
 header img {
