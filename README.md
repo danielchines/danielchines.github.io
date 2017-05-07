@@ -5,5 +5,6 @@ A website showcase my CS skills using [Jekyll](https://jekyllrb.com/) and the [F
 
 View the actual website here: [danielchines.github.io](http://danielchines.github.io)
 ---------
-#Credit#
+
+## Credit
 This site was created using [jeromelachaud](https://github.com/jeromelachaud)'s implementation. View his source code [here](https://github.com/jeromelachaud/freelancer-theme).
