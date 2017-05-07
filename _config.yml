@@ -47,7 +47,9 @@ address:
   - line: Engineering Management 
 
 # Credits content
-credits: 'This site was created using <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a>, a free template theme from <a href="http://startbootstrap.com">Bootstrap</a>. The source code can be found <a href="https://github.com/jeromelachaud/freelancer-theme">here</a>.'
+credits: 'This site was created using <a href="https://jekyllrb.com/">Jekyll</a> and 
+<a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a>, a free template theme from 
+<a href="http://startbootstrap.com">Bootstrap</a>. View the source code <a href="https://github.com/danielchines/danielchines.github.io">here</a>.'
 
 # Build settings
 markdown: kramdown
