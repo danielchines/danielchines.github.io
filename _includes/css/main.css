@@ -106,6 +106,9 @@ header .header-col {
     margin: 0 auto 20px;
 }
 
+header .list-inline {
+    padding-top: 20px;
+}
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
@@ -121,8 +124,8 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 30px;
-        padding-bottom: 20px;
+        padding-top: 100px;
+        padding-bottom: 30px;
     }
 
     header .intro-text .name {
