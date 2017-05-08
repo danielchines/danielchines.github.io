@@ -203,10 +203,10 @@ p.project:hover {
 }
 
 #projects .portfolio-item .portfolio-link {
-    padding: 15px 60px 15px 30px;
+    padding: 10px 60px 10px 30px;
     display: block;
     position: relative;
-    margin: 0 60px 0 60px;
+    margin: 30px 60px 0 60px;
     color: rgba(0,0,0,0.9);
     border-width: 6px;
     border-color: rgba(0,0,0,0.5);
