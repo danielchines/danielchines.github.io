@@ -220,6 +220,9 @@ p.project {
     border-radius: 20px;
     background: rgba(9,57,66,0.1)
 }
+#projects .portfolio-item .portfolio-link :hover {
+    background: #{{ site.color.primary }};
+}
 
 #projects h3 {
     padding-bottom: 10px;
@@ -261,17 +264,6 @@ p.project {
 
 #projects * {
     z-index: 2;
-}
-
-@media(min-width:767px) {
-    #projects .portfolio-item {
-        width: 100%;
-        margin: 25px 25px 30px;
-        border-bottom: 1px solid rgba(255,255,255,.25);
-    }
-    section.cv .white {
-        border-bottom: 1px solid rgba(255,255,255,.25);
-    }
 }
 
 .btn-outline {
