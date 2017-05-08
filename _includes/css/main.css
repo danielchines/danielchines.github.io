@@ -193,7 +193,7 @@ p.about-p {
     padding: 20px;
 }
 
-p.project {
+#projects p {
     padding: 10px;
     color: rgba(0,0,0,0.9);
 }
@@ -216,13 +216,13 @@ p.project {
 
 #projects .portfolio-link:hover {
     text-decoration:  none;
-    color: rgb(255,255,255);
     background: #{{ site.color.primary }};
     border-radius: 20px;
     h3 {
+        color: rgb(255,255,255);
         border-bottom: 1px solid rgba(255,255,255,.6);
     }
-    p.project {
+    p {
     color: rgb(255,255,255);
     text-decoration: none;
     }
