@@ -216,7 +216,9 @@ p.project {
     background: rgba(9,57,66,0.1)
 }
 #projects .portfolio-item .portfolio-link :hover {
+    color: rgb(255,255,255);
     background: #{{ site.color.primary }};
+    border-radius: 20px;
 }
 
 #projects h3 {
@@ -224,7 +226,7 @@ p.project {
     padding-bottom: 10px;
     padding-top: 15px;
     padding-left: 10px;
-    border-bottom: 1px solid rgba(255,255,255,.6);
+    border-bottom: 1px solid rgba(0,0,0,.6);
 }
 
 #projects .portfolio-item .portfolio-link .caption {
