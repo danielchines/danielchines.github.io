@@ -49,10 +49,9 @@ social:
     url: http://github.com/danielchines
 
 # Credits content
-credits: |
-  This site was created using the static site genereator <a href="https://jekyllrb.com/">Jekyll</a> and
-  the <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a> theme from <a href="http://startbootstrap.com">Bootstrap</a>.    
-  View the source code <a href="https://github.com/danielchines/danielchines.github.io">here</a>.
+credits:
+   credit: This site was created using the static site genereator <a href="https://jekyllrb.com/">Jekyll</a> and the <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a> theme from <a href="http://startbootstrap.com">Bootstrap</a>.    
+   sc: View the source code <a href="https://github.com/danielchines/danielchines.github.io">here</a>.
 
 # Build settings
 markdown: kramdown
