@@ -195,7 +195,7 @@ p.about-p {
 
 #projects p {
     padding: 10px;
-    color: rgba(0,0,0,0.9);
+    color: rgba(0,0,0,0.85);
 }
 /* p.project:hover {
     color: rgb(255,255,255);
@@ -207,7 +207,7 @@ p.about-p {
     display: block;
     position: relative;
     margin: 30px 60px 0 60px;
-    /*color: rgba(0,0,0,0.9);*/
+    color: rgba(0,0,0,0.85);
     border-width: 6px;
     border-color: rgba(0,0,0,0.5);
     border-radius: 20px;
@@ -218,7 +218,9 @@ p.about-p {
     text-decoration:  none;
     background: rgba({{ site.color.primary-rgb }},0.4);
     color: #{{ site.color-primary }};
-    h3.border-bottom: 1px solid rgba(255,255,255,.6);
+    h3 {
+        border-bottom: 1px solid rgba(255,255,255,.6);
+    }
 }
 
 #projects h3 {
