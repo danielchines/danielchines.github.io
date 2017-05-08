@@ -200,13 +200,13 @@ header .header-col {
 }
 
 section {
-    padding: 30px 0;
+    padding: 20px 0;
 }
 
 section h2 {
     margin: 0;
     font-size: 3em;
-    line-height: 1em;
+    line-height: 2em;
     border-bottom: 1px solid rgba(7,114,120,.75);
 }
 
