@@ -27,6 +27,12 @@ color:
   secondary: 474e57 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# About section
+about:
+   p1: 'Hi, my name is Daniel and I'm interested in web development, UI design, and entrepreneurship.'
+   p2: 'I built this website directly into my [Github repository](https://github.com/danielchines/danielchines.github.io) 
+   using GitHub"'"s static site hosting service [GitHub Pages](https://pages.github.com/). I used the Freelancer template from 
+   [Bootstrap] along with [Jekyll](https://jekyllrb.com/) to avoid dealing with databases and used markdown language and CSS for formatting.'
 # Footer settings
 footer:
   copyright: Daniel Hines
