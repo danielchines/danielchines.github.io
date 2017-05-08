@@ -206,7 +206,8 @@ section {
 section h2 {
     margin: 0;
     font-size: 3em;
-    border-bottom: 1px solid rgba(7,114,120,.25);
+    line-height: 5em;
+    border-bottom: 1px solid rgba(7,114,120,.75);
 }
 
 section.success {
@@ -214,9 +215,6 @@ section.success {
     
 }
 
-#projects .col-lg-12 {
-    border-bottom: 1px solid rgba(255,255,255,.25);
-}
 
 @media(max-width:767px) {
     section {
