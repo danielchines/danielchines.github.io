@@ -215,6 +215,13 @@ section h2 {
     border-bottom: 1px solid rgba(9,57,66,.75);
 }
 
+section h2 .white {
+    margin: 0;
+    padding-bottom: 25px;
+    font-size: 3em;
+    border-bottom: 1px solid rgba(255,255,255,.75);
+}
+
 #cv {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
