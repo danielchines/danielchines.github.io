@@ -203,6 +203,10 @@ p.project {
     padding: 20px;
     color: rgba(0,0,0,0.9);
 }
+p.project:hover {
+    color: color: rgb(255,255,255);
+    text-decoration: none;
+}
 
 #projects .portfolio-item .portfolio-link {
     display: block;
@@ -216,6 +220,7 @@ p.project {
 }
 
 #projects .portfolio-link:hover {
+    text-decoration:  none;
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
     border-radius: 20px;
