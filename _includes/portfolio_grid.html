@@ -7,16 +7,16 @@
                     <h2>My Projects</h2>
                 </div>
             </div>
+            {% for post in site.posts %}
             <div class="row">
-                {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
-                        <row>
+                       
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
-                        </row>
-                    </div>
-                {% endfor %}
+                       
+                </div>
             </div>
+                {% endfor %}
         </div>
     </section>
