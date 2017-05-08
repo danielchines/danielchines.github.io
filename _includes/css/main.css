@@ -181,6 +181,12 @@ section.cv h2 {
     border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
+@media (min-width: 768px)
+    .col-sm-4 {
+    width: 100%;
+    border-bottom: 1px solid rgba(9,57,66,.25);
+}
+
 #cv {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
