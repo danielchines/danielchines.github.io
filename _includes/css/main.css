@@ -374,7 +374,7 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    width: 50%;
+    width: 100%;
     margin: auto;
     margin-bottom: 50px;
     text-align: center;
@@ -388,17 +388,13 @@ footer .footer-below {
 @media(min-width:768px) {
     footer .container {
         padding-top: 0px;
-        width: 100%;
+        width: 50%;
         margin-right: auto;
         margin-left: auto;
+        text-align: center;
     }
-    footer .row {
-        padding-left: auto;
-        padding-right: auto;
-    }
+    
 }
-
-
 
 .scroll-top {
     z-index: 1049;
