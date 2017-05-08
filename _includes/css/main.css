@@ -90,7 +90,7 @@ header {
 header img {
     display: block;
     width: 30%;
-    margin: 0 auto 20px;
+    margin:0;
 }
 
 header .header-col {
@@ -116,7 +116,7 @@ header .list-inline {
     }
 
     header .intro-text .name {
-    padding-top: 10px;
+    padding-top: 0px;
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -126,6 +126,7 @@ header .list-inline {
 }
 
     header .intro-text .school {
+        padding-top: 5px;
         font-size: 1.75em;
         font-weight: 300;
     }
