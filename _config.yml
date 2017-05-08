@@ -30,7 +30,8 @@ color:
 # About section
 about:
    p1: Hi, my name is Daniel Hines.
-   p2: I built this website directly into my [Github repository](https://github.com/danielchines/danielchines.github.io) using the static site hosting service [GitHub Pages](https://pages.github.com/). I used the Freelancer template from [Bootstrap] along with [Jekyll](https://jekyllrb.com/) to avoid dealing with databases and used markdown language and CSS for formatting.
+   p2: I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using the static site hosting service <a href="https://pages.github.com/">GitHub Pages</a>.
+       I used the Freelancer template from <a href="https://startbootstrap.com/template-overviews/freelancer/">Bootstrap</a> along with <a href="https://jekyllrb.com/">Jekyll</a> to avoid dealing with databases and used markdown language and CSS for formatting.
 # Footer settings
 footer:
   copyright: Daniel Hines
@@ -49,10 +50,9 @@ social:
 
 # Credits content
 credits: |
-  This site was created using the
-  static site genereator <a href="https://jekyllrb.com/">Jekyll</a> and
-  the <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a> theme from <a href="http://startbootstrap.com">Bootstrap</a>.  
-  "\n"View the source code <a href="https://github.com/danielchines/danielchines.github.io">here</a>.
+  This site was created using the static site genereator <a href="https://jekyllrb.com/">Jekyll</a> and
+  the <a href="https://startbootstrap.com/template-overviews/freelancer/">Freelancer</a> theme from <a href="http://startbootstrap.com">Bootstrap</a>.    
+  View the source code <a href="https://github.com/danielchines/danielchines.github.io">here</a>.
 
 # Build settings
 markdown: kramdown
