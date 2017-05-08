@@ -422,6 +422,8 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
+    padding-bottom: 25px;
+    border-bottom: 1px solid rgba(9,57,66,.75);
 }
 
 .portfolio-modal .modal-content img {
