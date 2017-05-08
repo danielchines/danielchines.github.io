@@ -73,9 +73,9 @@ header .header-col {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.75em;
-    font-weight: 650;
+    font-weight: 600;
     padding-bottom: 4px;
-    border-bottom: 1px solid rgba(255,255,255,.25);
+    border-bottom: 1px solid rgba(255,255,255,.3);
     }
 
     header .intro-text .school {
