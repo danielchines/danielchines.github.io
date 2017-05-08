@@ -385,10 +385,14 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+footer a {
+    color: #18b9c2;
+}
+
 @media(min-width:768px) {
     footer .container {
         padding-top: 0px;
-        width: 50%;
+        width: 70%;
         margin-right: auto;
         margin-left: auto;
         text-align: center;
