@@ -204,6 +204,10 @@ section {
     padding: 80px 0;
 }
 
+section.white {
+    color: rgb(255,255,255);
+}
+
 section h2 {
     margin: 0;
     padding-bottom: 25px;
