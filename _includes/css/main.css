@@ -379,6 +379,15 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+@media(min-width:768px) {
+    footer .container {
+        padding-top: 0px;
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
 
 
 .scroll-top {
