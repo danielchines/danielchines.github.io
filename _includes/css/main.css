@@ -181,12 +181,6 @@ section h2.white {
     border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
-@media (min-width: 768px)
-    .col-sm-4 {
-    width: 100%;
-    border-bottom: 1px solid rgba(9,57,66,.25);
-}
-
 #cv {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
@@ -232,7 +226,8 @@ p.project:hover {
     font-size: 2em;
     padding-bottom: 10px;
     padding-top: 15px;
-    padding-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     border-bottom: 1px solid rgba(0,0,0,.6);
 }
 
