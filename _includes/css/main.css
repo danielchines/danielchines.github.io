@@ -90,7 +90,7 @@ header {
 header img {
     display: block;
     width: 30%;
-    margin:0;
+    margin: auto;
 }
 
 header .header-col {
