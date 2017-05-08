@@ -122,6 +122,7 @@ header .list-inline {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.75em;
     font-weight: 650;
+    border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
     header .intro-text .school {
@@ -194,9 +195,6 @@ section h2 {
 section.success {
     background: rgba({{ site.color.secondary-rgb }},.9);
     
-}
-.row {
-    border-bottom: 1px solid rgba(255,255,255,.25);
 }
 
 
