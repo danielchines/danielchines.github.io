@@ -81,12 +81,12 @@ header .header-col {
     header .intro-text .school {
         padding-top: 30px;
         font-size: 1.75em;
-        font-weight: 300;
+        font-weight: 500;
     }
     
     header .intro-text .major {
         font-size: 1.25em;
-        font-weight: 200;
+        font-weight: 400;
     }
 }
 
