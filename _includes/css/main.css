@@ -216,9 +216,9 @@ p.about-p {
 
 #projects .portfolio-link:hover {
     text-decoration:  none;
-    background: rgba({{ site.color.primary-rgb }},0.5);
-    color: rgb(255,255,255);
-    border-bottom: 1px solid rgba(255,255,255,.6);
+    background: rgba({{ site.color.primary-rgb }},0.4);
+    color: #{{ site.color-primary }};
+    h3.border-bottom: 1px solid rgba(255,255,255,.6);
 }
 
 #projects h3 {
