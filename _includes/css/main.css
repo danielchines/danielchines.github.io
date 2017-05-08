@@ -211,9 +211,8 @@ section h2 {
     border-bottom: 1px solid rgba(9,57,66,.75);
 }
 
-section.success {
+#cv {
     background: rgba({{ site.color.secondary-rgb }},.9);
-    
 }
 
 p.about-p {
