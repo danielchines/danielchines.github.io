@@ -392,6 +392,10 @@ footer .footer-below {
         margin-right: auto;
         margin-left: auto;
     }
+    footer .row {
+        padding-left: auto;
+        padding-right: auto;
+    }
 }
 
 
