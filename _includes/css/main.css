@@ -114,6 +114,7 @@ header .header-col {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.75em;
     font-weight: 650;
+    padding-bottom: 4px;
     border-bottom: 1px solid rgba(255,255,255,.25);
     }
 
@@ -205,8 +206,8 @@ section {
 
 section h2 {
     margin: 0;
+    padding-bottom: 5px;
     font-size: 3em;
-    line-height: 2em;
     border-bottom: 1px solid rgba(7,114,120,.75);
 }
 
