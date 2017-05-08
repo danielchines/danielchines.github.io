@@ -190,6 +190,9 @@ section.cv h2 {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
 }
+#cv .white h2 {
+    border-bottom: 1px solid rgba(255,255,255,.25);
+}
 
 p.about-p {
     margin-top: 25px;
