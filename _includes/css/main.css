@@ -350,6 +350,8 @@ footer .footer-above {
 }
 
 footer .footer-col {
+    width: 50%;
+    margin: auto;
     margin-bottom: 50px;
 }
 
