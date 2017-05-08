@@ -213,6 +213,9 @@ section.success {
     
 }
 
+#projects .col-lg-12 {
+    border-bottom: 1px solid rgba(255,255,255,.25);
+}
 
 @media(max-width:767px) {
     section {
