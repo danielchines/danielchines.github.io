@@ -197,10 +197,10 @@ p.project {
     padding: 10px;
     color: rgba(0,0,0,0.9);
 }
-p.project:hover {
+/* p.project:hover {
     color: rgb(255,255,255);
     text-decoration: none;
-}
+} */
 
 #projects .portfolio-item .portfolio-link {
     padding: 10px 30px 10px 30px;
@@ -222,7 +222,7 @@ p.project:hover {
     h3 {
         border-bottom: 1px solid rgba(255,255,255,.6);
     }
-    .project {
+    p.project {
     color: rgb(255,255,255);
     text-decoration: none;
     }
