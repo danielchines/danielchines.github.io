@@ -191,11 +191,13 @@ section h2 {
 
 section.success {
     background: rgba({{ site.color.secondary-rgb }},.9);
+    
 }
-
-#row {
+.row {
     border-bottom: 1px solid rgba(255,255,255,.25);
 }
+
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
