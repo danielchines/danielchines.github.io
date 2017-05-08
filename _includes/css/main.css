@@ -215,7 +215,7 @@ section h2 {
     border-bottom: 1px solid rgba(9,57,66,.25);
 }
 
-section h2 .white {
+section.cv h2 {
     margin: 0;
     padding-bottom: 25px;
     font-size: 3em;
