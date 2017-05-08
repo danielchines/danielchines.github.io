@@ -201,15 +201,14 @@ header .header-col {
 }
 
 section {
-    padding: 20px 0;
+    padding: 40px 0;
 }
 
 section h2 {
     margin: 0;
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     font-size: 3em;
-    border-bottom: 1px solid rgba(7,114,120,.75);
+    border-bottom: 1px solid rgba(9,57,66,.75);
 }
 
 section.success {
@@ -369,7 +368,7 @@ footer .footer-above {
 footer .footer-col {
     width: 100%;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
