@@ -115,10 +115,10 @@ header .header-col {
     font-size: 3.75em;
     font-weight: 650;
     border-bottom: 1px solid rgba(255,255,255,.25);
-}
+    }
 
     header .intro-text .school {
-        padding-top: 12px;
+        padding-top: 20px;
         font-size: 1.75em;
         font-weight: 300;
     }
