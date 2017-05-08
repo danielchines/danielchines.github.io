@@ -206,7 +206,8 @@ section {
 
 section h2 {
     margin: 0;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 15px;
     font-size: 3em;
     border-bottom: 1px solid rgba(7,114,120,.75);
 }
@@ -214,17 +215,6 @@ section h2 {
 section.success {
     background: rgba({{ site.color.secondary-rgb }},.9);
     
-}
-
-
-@media(max-width:767px) {
-    section {
-        padding: 75px 0;
-    }
-
-    section.first {
-        padding-top: 75px;
-    }
 }
 
 #portfolio .portfolio-item {
