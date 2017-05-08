@@ -245,6 +245,7 @@ p.about-p {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
+        width: 100%;
         margin: 25px 25px 30px;
         border-bottom: 1px solid rgba(255,255,255,.25);
     }
