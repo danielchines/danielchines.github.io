@@ -214,7 +214,7 @@ p.project {
     border-radius: 20px;
     background: rgba(9,57,66,0.1)
 }
-#projects .portfolio-item:hover,
+
 #projects .portfolio-link:hover {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
