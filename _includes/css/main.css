@@ -216,7 +216,7 @@ p.about-p {
 
 #projects .portfolio-link:hover {
     text-decoration:  none;
-    background: rgba({{ site.color.primary }},0.5);
+    background: rgba({{ site.color.primary-rgb }},0.5);
     border-radius: 20px;
     h3 {
         color: rgb(255,255,255);
