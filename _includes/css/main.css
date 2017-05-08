@@ -212,7 +212,7 @@ section h2 {
 }
 
 #cv {
-    background: rgba({{ site.color.secondary-rgb }},.9);
+    background: #{{ site.color.primary }};
 }
 
 p.about-p {
