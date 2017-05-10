@@ -2,7 +2,7 @@
 title: Daniel Hines
 email: daniel.c.hines@vanderbilt.edu
 url: https://danielchines.github.io
-description: "A simple github website to display my resume and personal projects. Site created using Jekyll and the Freelancer Bootstrap theme."
+description: "A simple github pages website to display my resume and personal projects. Site created using Jekyll and the Freelancer Bootstrap theme."
 skills: >
    Vanderbilt University '18  
    Computer Science and Engineering Management
@@ -29,9 +29,10 @@ color:
 
 # About section
 about:
-   p1: Hi, my name is Daniel Hines.
-   p2: I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using the static site hosting service <a href="https://pages.github.com/">GitHub Pages</a>.
-       I used the Freelancer template from <a href="https://startbootstrap.com/template-overviews/freelancer/">Bootstrap</a> along with <a href="https://jekyllrb.com/">Jekyll</a> to avoid dealing with databases and used markdown language and CSS for formatting.
+   p1: I"'"m Daniel Hines, a senior computer science student and entrepreneur.
+   I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> 
+   using GitHub"'"s static site hosting service, GitHub Pages.
+   I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible.
 # Footer settings
 footer:
   copyright: Daniel Hines
