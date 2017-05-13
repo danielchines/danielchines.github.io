@@ -30,8 +30,7 @@ color:
 # About section
 about:
    p1: I"'"m Daniel Hines, a senior computer science student and entrepreneur.
-   I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> 
-   using GitHub"'"s static site hosting service, GitHub Pages.
+   I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using GitHub"'"s static site hosting service, GitHub Pages.
    I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible.
 # Footer settings
 footer:
