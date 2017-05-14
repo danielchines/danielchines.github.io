@@ -190,9 +190,12 @@ section h2.white {
 } */
 
 p.about-p {
-    padding: 10px 60px 10px 60px;
+    width = 75%;
     text-align: center;
-    margin = 0;
+    margin-top = 10px;
+    margin-bottom = 10px;
+    margin-right = auto;
+    margin-left = auto;
 }
 
 p.project {
