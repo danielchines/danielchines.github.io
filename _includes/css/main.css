@@ -168,14 +168,14 @@ section.white {
 }
 
 section h2.dark {
-    margin: 0;
+    margin: 0 0 20px 0;
     padding-bottom: 25px;
     font-size: 3em;
     border-bottom: 1px solid rgba(9,57,66,.25);
 }
 
 section h2.white {
-    margin: 0;
+    margin: 0 0 20px 0;
     padding-bottom: 25px;
     font-size: 3em;
     border-bottom: 1px solid rgba(255,255,255,.25);
@@ -185,12 +185,14 @@ section h2.white {
     color: rgb(255,255,255);
     background: #{{ site.color.primary }};
 }
-#cv .white h2 {
+/* #cv .white h2 {
     border-bottom: 1px solid rgba(255,255,255,.25);
-}
+} */
 
 p.about-p {
-    padding: 40px;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    
 }
 
 p.project {
