@@ -28,10 +28,11 @@ color:
   secondary-dark: 233140 #A2122F
 
 # About section
-about: >
-   I'm Daniel Hines, a senior computer science student and entrepreneur.  
-   I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using GitHub's free static site hosting service, GitHub Pages. To format the site I used a little CSS and Bootstrap's Freelancer theme.  
-   I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible.
+about:
+   p1; I'm Daniel Hines, a senior computer science student and entrepreneur.  
+   p2: I built this website directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using GitHub's free static site hosting service, GitHub Pages. To format the site I used a little CSS and Bootstrap's Freelancer theme.  
+   p3: I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible.
+
 # Footer settings
 footer:
   copyright: Daniel Hines
