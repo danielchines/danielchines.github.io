@@ -29,8 +29,8 @@ color:
 
 # About section
 about:
-   p1: |
-     I'm Daniel Hines, a senior computer science student and aspiring entrepreneur. X                          X
+   p1: >
+     I'm Daniel Hines, a senior computer science student and aspiring entrepreneur.
      I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible. Specifically, I'm interested in Web and Mobile App Development.
    p2: I built this website to display my technical experience and personal CS-related projects. I pushed the code directly into my <a href="https://github.com/danielchines/danielchines.github.io">Github repository</a> using GitHub's free static site hosting service. To format the site I used a little CSS and Bootstrap's Freelancer theme.  
    p3: I'm the Co-Founder of <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. Scroll down to view my past projects, which will be updated from my <a href="https://github.com/danielchines">Github</a> account. In the future I plan on delving into Ruby on Rails as well as Virtual Reality.
