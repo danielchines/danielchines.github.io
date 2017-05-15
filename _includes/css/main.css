@@ -90,6 +90,11 @@ header .header-col {
     }
 }
 
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: 0px;
+}
 .list-inline>li {
     padding: 15px;
 }
@@ -192,10 +197,12 @@ section h2.white {
 } */
 
 p.about-p {
-    width = 75%;
     text-align: center;
     margin-top = 10px;
     margin-bottom = 10px;
+}
+.row .about-p {
+    width: 70%;
 }
 
 p.project {
