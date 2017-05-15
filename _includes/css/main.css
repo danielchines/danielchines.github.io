@@ -168,6 +168,7 @@ section.white {
 }
 
 section h2.dark {
+    text-align: center;
     margin: 0 0 20px 0;
     padding-bottom: 25px;
     font-size: 3em;
@@ -175,6 +176,7 @@ section h2.dark {
 }
 
 section h2.white {
+    text-align: center;
     margin: 0 0 20px 0;
     padding-bottom: 25px;
     font-size: 3em;
