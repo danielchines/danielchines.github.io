@@ -1,5 +1,6 @@
 Personal website using the Freelancer Jekyll theme
 =========================
+Travis-CI: [![Build Status](https://travis-ci.org/danielchines/danielchines.github.io.svg?branch=master)](https://travis-ci.org/danielchines/danielchines.github.io)
 
 A website showcase my CS skills using [Jekyll](https://jekyllrb.com/) and the [Freelancer bootstrap theme](http://startbootstrap.com/template-overviews/freelancer/).
 
