@@ -197,15 +197,13 @@ section h2.white {
     border-bottom: 1px solid rgba(255,255,255,.25);
 } */
 
-p.about-p {
-    text-align: center;
-    margin-top = 10px;
-    margin-bottom = 10px;
-}
+/* p.about-p {
+} */
 .row .about-p {
+    text-align: center;
     width: 70%;
-    margin-left,
-    margin-right: auto;
+    margin: 10px auto;
+
 }
 
 p.project {
