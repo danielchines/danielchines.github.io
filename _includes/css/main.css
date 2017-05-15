@@ -203,8 +203,9 @@ p.about-p {
     margin-bottom = 10px;
 }
 .row .about-p {
-    text-align: center;
     width: 70%;
+    margin-left,
+    margin-right: auto;
 }
 
 p.project {
