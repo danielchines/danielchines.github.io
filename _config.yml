@@ -30,8 +30,8 @@ color:
 # About section
 about:
   p1: I'm Daniel Hines, a Chicago native and avid software/UX developer.
-  p2: I originally used <a href="http://jmcglone.com/guides/github-pages/">this tutorial</a> to create a blog-based site using Github's free .io domain. Because I don't plan on becoming a UI designer at Craigslist, I found <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement the Freelancer Bootstrap theme and added my own HTML/CSS/Javascript to make it look pretty. The source code is all in my <a href="https://github.com/danielchines/danielchines.github.io">repository</a> on Github.  
-  p3: Two summers ago I designed, developed and published a simple puzzle game called The Next Level. Since then I became a Co-founder of <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. I'm currently developing the front-end UI for version 1.0 which will be available in late June.
+  p2: I originally used <a href="http://jmcglone.com/guides/github-pages/">this tutorial</a> to create a blog-based site using Github's free .io domain. Because I don't plan on becoming a UI designer at Craigslist, I found <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement a theme from Bootstrap, and added my own HTML/CSS/Javascript to make it look pretty. The source code is all in my <a href="https://github.com/danielchines/danielchines.github.io">repository</a> on Github.  
+  p3: Two summers ago I used Coursera and Youtube tutorials to design, develop and publish a simple iOS puzzle game called The Next Level. Since then I became a Co-founder of <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. I'm currently developing the front-end UI for version 1.0 which will be available in late June.
   p4: Scroll down to view my past projects, which will be updated from my <a href="https://github.com/danielchines">Github</a> account. In the future I plan on delving into Ruby on Rails as well as Virtual Reality.
 
 # Footer settings
