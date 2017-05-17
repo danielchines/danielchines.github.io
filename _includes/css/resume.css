@@ -33,7 +33,7 @@ p.resume { font-size: 100%; line-height: 18px; }
 #doc2 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 24px; }
 #doc2 p.enlarge span { color: #000 }
 #hd .first h2 { font-style: italic; }
-#doc2 .last { border-bottom: 0 }
+#doc2 .yui-gf .last { border-bottom: 0; margin-bottom, padding-bottom: 0; }
 #bd .first h2 { font-weight: normal; font-style: normal; }
 
 /* //-- section styles -- */
