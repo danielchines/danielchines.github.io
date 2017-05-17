@@ -197,7 +197,7 @@ section h2.white {
 } */
 .row .about-p {
     text-align: center;
-    width: 80%;
+    min-width: 83%;
     margin: 15px auto;
     line-height: 1.6;
 }
