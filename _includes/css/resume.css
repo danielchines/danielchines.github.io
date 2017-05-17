@@ -11,7 +11,7 @@ body { font-family: Georgia; color: #444; }
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
-#hd .yui-gc div.first { margin-left: 0; width: 66%; float: left; }
+#hd .yui-gc div.name { margin-left: 0; width: 66%; float: left; }
 #hd .yui-gc div.contact { margin-left: 1.99%; width: 32%; float: right; }
 #hd .contact-info { margin-top: 7px; }
 #bd, #ft { margin-bottom: 2em; }
