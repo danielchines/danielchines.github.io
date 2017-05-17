@@ -29,7 +29,7 @@ color:
 
 # About section
 about:
-  p1: I'm Daniel Hines, a CS student at Vanderbilt and avid iOS developer. so far I've been alive for
+  p1: I'm Daniel Hines, a CS student at Vanderbilt and avid iOS developer. So far I've been alive for
   p2: I came into college as a Mechanical Engineering major and switched to Computer Science after taking CS101. Since then I've put together a couple projects involing Web and Mobile App Development and made this website to brag about it.
   p3: I built this site directly into my Github <a href="https://github.com/danielchines/danielchines.github.io">repository</a> to display my technical experience and personal CS-related projects. GitHub Pages websites are freely hosted on GitHub’s github.io domain and powered by Jekyll to automatically regenerate HTML every time I commit a file. To format the site I used <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement Bootstrap's Freelancer theme and additional HTML/CSS to format the header and project section.  
   p4: |
