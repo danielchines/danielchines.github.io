@@ -34,7 +34,7 @@ p.resume { font-size: 100%; line-height: 18px; padding-right: 3em; }
 #doc2 p.enlarge span { color: #000 }
 .first h2 { font-style: italic; width: 12.3%; float: left; }
 #doc2 .last { border-bottom: 0 }
-
+#bd h2 { font-weight: 600 }
 
 /* //-- section styles -- */
 
