@@ -1,3 +1,4 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 {% include css/resume.css %}
+{% include css/reset-fonts-grids.css %}
