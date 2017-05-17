@@ -26,7 +26,7 @@ p.resume { font-size: 100%; line-height: 18px; }
 #doc2 h3, h4 { font-size: 122%; }
 #doc2 h1, h2, h3, h4 { color: #333; font-family: Georgia; text-transform: none; font-weight: normal;}
 #doc2 .yui-t7 { padding-right: 0; }
-#doc2 a { color: #990003 }
+#doc2 a { color: #008b8b }
 #doc2 a:hover { text-decoration: none; }
 #doc2 strong { font-weight: bold; }
 #doc2 li { line-height: 24px; border-bottom: 1px solid #ccc; }
@@ -43,9 +43,9 @@ a#pdf:hover { background: #222; }
 
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 #bd .job h4 { position: absolute; top: 0.35em; right: 0 }
-#bd .job p { margin: 0.75em 0 3em 0; }
+#bd .job p { margin: 0.75em 0 2em 0; }
 
-#bd .last { border: none; }
+#bd .last { border: none; margin-bottom, padding-bottom: 0; }
 #bd .skills-list {  }
 #bd .skills-list ul { margin: 0; }
 #bd .skills-list li { margin: 3px 0; padding: 3px 0; }
