@@ -12,12 +12,9 @@
 		    <script>
           function ago(date) {
             function render(n, unit) {
-            	if (unit == "minute"){
-               return n + " " + unit + ((n == 1) ? " and " : "s and ");
-              }
-              else {
-               return n + " " + unit + ((n == 1) ? "" : "s ");
-							}
+            if (unit == "minute"){ return n + " " + unit + ((n == 1) ? " and " : "s and "); }
+              else if (unit == "second"){ return n + " " + unit + ((n == 1) ? "." : "s."); }
+							else { return n + " " + unit + ((n == 1) ? ", " : "s, "); }
             }
 					  var str = "";
     		    var seconds = Math.floor((Date.now() - date.getTime()) / 1000);
