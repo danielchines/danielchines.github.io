@@ -29,11 +29,10 @@ color:
 
 # About section
 about:
-  p1: |
-    I'm Daniel Hines, a CS student at Vanderbilt and avid iOS developer. 
-    In general, I enjoy solving important problems and designing interfaces that make complex interactions as intuitive as possible. Specifically, I'm interested in Web and Mobile App Development.
-  p2: I built this site directly into my Github <a href="https://github.com/danielchines/danielchines.github.io">repository</a> to display my technical experience and personal CS-related projects. GitHub Pages websites are freely hosted on GitHub’s github.io domain and powered by Jekyll to automatically regenerate HTML every time I commit a file. To format the site I used <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement Bootstrap's Freelancer theme and additional HTML/CSS to format the header and project section.  
-  p3: |
+  p1: I'm Daniel Hines, a CS student at Vanderbilt and avid iOS developer. so far I've been alive for
+  p2: I came into college as a Mechanical Engineering major and switched to Computer Science after taking CS101. Since then I've put together a couple projects involing Web and Mobile App Development and made this website to brag about it.
+  p3: I built this site directly into my Github <a href="https://github.com/danielchines/danielchines.github.io">repository</a> to display my technical experience and personal CS-related projects. GitHub Pages websites are freely hosted on GitHub’s github.io domain and powered by Jekyll to automatically regenerate HTML every time I commit a file. To format the site I used <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement Bootstrap's Freelancer theme and additional HTML/CSS to format the header and project section.  
+  p4: |
     I'm the Co-Founder of <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. I'm currently developing the front-end UI for version 1.0 of the app which will be available in late June.
     Scroll down to view my past projects, which will be updated from my <a href="https://github.com/danielchines">Github</a> account. In the future I plan on delving into Ruby on Rails as well as Virtual Reality.
 
