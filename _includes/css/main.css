@@ -201,9 +201,9 @@ section h2.white {
 } */
 .row .about-p {
     text-align: center;
-    width: 75%;
-    margin: 10px auto;
-
+    width: 80%;
+    margin: 15px auto;
+    text-height: 1.6em;
 }
 
 p.project {
