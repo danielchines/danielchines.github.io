@@ -38,7 +38,7 @@ p.resume { font-size: 100%; line-height: 18px; }
 
 /* //-- section styles -- */
 
-a#pdf { display: block; float: left; text-align: center; background: #666; color: #{{ site.color.primary }}; padding: 6px 15px 6px 15px; margin-bottom: 6px; text-decoration: none;  }
+a#pdf { display: block; float: left; text-align: center; background: #228e8e; color: white; padding: 10px 55px; margin-bottom: 6px; margin-top: -10px; border-radius: 3px; text-decoration: none;  }
 a#pdf:hover { background: #222; }
 
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
