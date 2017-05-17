@@ -19,13 +19,12 @@ body #resume { font-family: Georgia; color: #444; }
 /* //-- footer -- */
 #ft { padding: 1em 0 5em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
 #ft p { margin-bottom: 0; text-align: center;   }
-
+p.resume { font-size: 100%; line-height: 18px; padding-right: 3em; }
 /* //-- core typography and style -- */
 #hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
 #doc2 h2 { font-size: 152% }
 #doc2 h3, h4 { font-size: 122%; }
 #doc2 h1, h2, h3, h4 { color: #333; }
-#doc2, #ft p { font-size: 13px; line-height: 18px; padding-right: 3em; }
 #doc2 .yui-t7 { padding-right: 0; }
 #doc2 a { color: #990003 }
 #doc2 a:hover { text-decoration: none; }
