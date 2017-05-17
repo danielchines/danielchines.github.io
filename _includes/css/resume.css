@@ -25,7 +25,7 @@ body #resume { font-family: Georgia; color: #444; }
 #doc2 h2 { font-size: 152% }
 #doc2 h3, h4 { font-size: 122%; }
 #doc2 h1, h2, h3, h4 { color: #333; }
-#doc2, #ft p { font-size: 100%; line-height: 18px; padding-right: 3em; }
+#doc2, #ft p { font-size: 13px; line-height: 18px; padding-right: 3em; }
 #doc2 .yui-t7 { padding-right: 0; }
 #doc2 a { color: #990003 }
 #doc2 a:hover { text-decoration: none; }
