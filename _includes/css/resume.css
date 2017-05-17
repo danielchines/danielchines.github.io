@@ -45,6 +45,7 @@ a#pdf:hover { background: #222; }
 #bd .job h4, #bd .education h4 { position: absolute; top: 0.35em; right: 0 }
 #bd .job p { margin: 0.75em 0 2em 0; }
 
+li.job { margin: 0.75em 0 2em 0; padding: 0; list-style-type: disc; }
 #bd .last { border: none; margin-bottom, padding-bottom: 0; }
 #bd .skills-list {  }
 #bd .skills-list ul { margin: 0; }
