@@ -204,7 +204,7 @@ section h2.white {
 
 p.project {
     padding: 10px;
-    float: left;
+    text-align: left;
     color: rgba(0,0,0,0.85);
 }
 
@@ -249,7 +249,7 @@ p.project.active {
     padding-left: 10px;
     margin-left: 0px;
     margin-right: 20px;
-    float: left;
+    text-align: left;
     border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
