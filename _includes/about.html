@@ -7,9 +7,8 @@
                 </div>
             </div>
             <div class="row">
-              <p class="about-p"><b style="font-size: 26px">Welcome to my website. </b>{{ site.about.p1 }}
-              <span id="timeAlive"></span>
-              </p>
+              <p class="about-p"><b style="font-size: 26px">Welcome to my website. </b>{{ site.about.p1 }}</p>
+              <p class="about-p" id="timeAlive"></p>
 		    <script>
           function ago(date) {
             function render(n, unit) {
@@ -53,7 +52,7 @@
             return str;
 		  	}
 		  	var date = new Date(Date.UTC(1995, 10, 29, 2, 1, 2, 3));
-		  	document.getElementById("timeAlive").innerHTML = ago(date);
+		  	document.getElementById("timeAlive").innerHTML = "So far I've been alive for " + ago(date);
        </script>
 					</div>
             <div class="row">
