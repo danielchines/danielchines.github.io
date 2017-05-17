@@ -189,7 +189,10 @@ section h2.white {
 #cv {
     background: #{{ site.color.primary }};
 }
-
+#cv .resume-container {
+    padding-right,
+    padding-left: 40px;
+}
 /* p.about-p {
 } */
 .row .about-p {
