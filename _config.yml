@@ -31,7 +31,8 @@ color:
 about:
   p1: I'm Daniel Hines, a CS student at Vanderbilt and avid iOS developer.
   p2: I originally used <a href="http://jmcglone.com/guides/github-pages/">this tutorial</a> to create a blog-based site using Github's free .io domain. Because I don't plan on becoming a UI designer at Craigslist, I found <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement the Freelancer Bootstrap theme and added my own HTML/CSS/Javascript to make it look pretty. The source code is all in my <a href="https://github.com/danielchines/danielchines.github.io">repository</a> on Github.  
-  p3: Right now I'm most interested in ** Web and Mobile App Development **, specifically for iOS. I designed, developed and published a simple puzzle game called The Next Level two summers ago. I'm also a Co-Founder at <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. I'm currently developing the front-end UI for version 1.0 of the app which will be available in late June.
+  p3-1: Right now I'm most interested in 
+  p3-2: , specifically for iOS. I designed, developed and published a simple puzzle game called The Next Level two summers ago. I'm also a Co-Founder at <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS. I'm currently developing the front-end UI for version 1.0 of the app which will be available in late June.
   p4: Scroll down to view my past projects, which will be updated from my <a href="https://github.com/danielchines">Github</a> account. In the future I plan on delving into Ruby on Rails as well as Virtual Reality.
 
 # Footer settings
