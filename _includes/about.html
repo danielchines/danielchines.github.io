@@ -14,7 +14,7 @@
           function ago(date) {
             function render(n, unit) {
             	if (unit == "minute"){
-               return n + " " + unit + ((n == 1) ? "" : "s and ");
+               return n + " " + unit + ((n == 1) ? " and " : "s and ");
               }
               else {
                return n + " " + unit + ((n == 1) ? "" : "s ");
