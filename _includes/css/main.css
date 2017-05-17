@@ -190,12 +190,12 @@ section h2.white {
 }
 
 #cv {
-    color: rgb(255,255,255);
+    color: #{{ site.color.secondary }};
     background: #{{ site.color.primary }};
 }
-/* #cv .white h2 {
+#cv .white h2 {
     border-bottom: 1px solid rgba(255,255,255,.25);
-} */
+}
 
 /* p.about-p {
 } */
