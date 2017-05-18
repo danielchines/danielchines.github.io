@@ -30,7 +30,7 @@ color:
 # About section
 about:
   p1: I'm Daniel Hines, a Chicago native and avid software/UX developer.
-  p2: I originally used <a href="http://jmcglone.com/guides/github-pages/">this tutorial</a> to create a blog-based site using Github's free .io domain. To make it look less like craigslist I used <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement a theme from Bootstrap, and added my own HTML/CSS/Javascript to make it look pretty. The source code is all in my <a href="https://github.com/danielchines/danielchines.github.io">repository</a> on Github.  
+  p2: I originally used <a href="http://jmcglone.com/guides/github-pages/">this tutorial</a> to create a blog-based site using Github's free .io domain. I stumbled upon <a href="https://github.com/jeromelachaud/freelancer-theme">this example</a> to implement a theme from Bootstrap, and added my own HTML/CSS/Javascript to make it look less like Craigslist. The source code is available in my <a href="https://github.com/danielchines/danielchines.github.io">repository</a> on Github.  
   p3: Two summers ago I used Coursera and Youtube tutorials to design, develop and publish a simple iOS puzzle game called The Next Level. Last summer I co-founded <a href="https://backme.com">BackMe Inc.</a>, a productivity-based app for iOS, where I'm developing the front-end UI for version 1.0 which will be available in late June.
   p4: Scroll down to view my past projects, which will be updated from my <a href="https://github.com/danielchines">Github</a> account. In the future I plan on delving into Ruby on Rails as well as Virtual Reality.
 
