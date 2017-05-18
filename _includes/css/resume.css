@@ -53,8 +53,8 @@ a#pdf:hover { background: #222; }
 #bd .education.last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
 .education ul { margin-top: 0.75em; }
 .coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; }
-.coursework h3 { width: 190px; float: left; }
-.coursework h4 { position: absolute; top: 0.35em; right: 10px; width: 420px; }
+#education .coursework h3 { width: 190px; float: left; font-weight: bold; }
+.coursework h4 { position: absolute; top: 0.2em; right: 10px; width: 420px; }
 .coursework .last { padding-bottom: 4em; }
 
 /* //-- Experience/Jobs -- */
