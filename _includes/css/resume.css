@@ -68,6 +68,7 @@ a#pdf:hover { background: #222; }
 
 /* //-- Languages -- */
 #bd .talent { margin-top: 0; width: 32%; float: right }
+#bd .talent li { border-bottom: 1px solid rgba(204, 204, 204, 0.5); }
 
 #bd .skills-list {  }
 #bd .skills-list ul { margin: 0; }
