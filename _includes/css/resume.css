@@ -48,7 +48,7 @@ a#pdf:hover { background: #222; }
 
 
 #bd li.job { margin: 0 0 0 1.2em; padding: 0; list-style-type: disc; border-bottom: none; }
-#bd .job .last { border-bottom: none; margin-bottom: 10px; }
+#bd .job div.last { border-bottom: none; margin-bottom: 0px; padding-bottom: 0px; }
 #bd .last { border: none; margin-bottom, padding-bottom: 0; }
 #bd .skills-list {  }
 #bd .skills-list ul { margin: 0; }
