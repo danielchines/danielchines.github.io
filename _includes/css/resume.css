@@ -23,8 +23,8 @@ p.resume { font-size: 100%; line-height: 18px; }
 
 /* ---- header ---- */
 #hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
-#hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; font-family: Georgia; text-transform: none; font-weight: 700e;}
-#hd h2 { text-transform: uppercase; letter-spacing: 2px; font-style: italic; }
+#hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; font-family: Georgia; text-transform: none; font-weight: 700;}
+#hd h2 { text-transform: uppercase; letter-spacing: 1px; font-style: italic; font-size: 135%; margin: 6px 0}
 #hd .yui-gc div.name { margin-left: 0; width: 66%; float: left; }
 #hd .yui-gc div.contact { margin-left: 1.99%; width: 32%; float: right; }
 #hd .contact-info { margin-top: 7px; }
