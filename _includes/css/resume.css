@@ -53,7 +53,7 @@ a#pdf:hover { background: #222; }
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 #bd .job h4 { position: absolute; top: 0.35em; right: 0 }
 #bd .job h3 { font-style: italic; }
-#bd .job p { margin: 0.75em 0 2em 0; }
+#bd .job p { margin: 0.75em 4em 1em 0.5em; }
 .job ul { margin-top: 0.75em; }
 #bd li.job { margin: 0 0 10px 1.2em; line-height: 15px; padding: 0; list-style-type: disc; border-bottom: none; }
 #bd li.job .last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
