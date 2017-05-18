@@ -50,7 +50,7 @@ a#pdf:hover { background: #222; }
 #bd .education h4 { position: absolute; top: 0.35em; right: 0 }
 #bd .education { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 #bd li.education { margin: 0 0 10px 1.2em; line-height: 15px; padding: 0; list-style-type: disc; border-bottom: none; }
-#bd .education .last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
+#bd .education.last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
 .education ul { margin-top: 0.75em; }
 
 /* //-- Experience/Jobs -- */
