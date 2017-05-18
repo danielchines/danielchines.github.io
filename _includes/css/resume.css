@@ -41,7 +41,7 @@ a#pdf:hover { background: #222; }
 #bd .last { border: none; margin-bottom, padding-bottom: 0; }
 #bd .first h2 { font-weight: normal; font-style: normal; }
 #inner .yui-gf { margin-bottom: 2em; margin-top: 0; padding-bottom: 2em; border-bottom: 1px solid #ccc; }
-#doc2 .yui-gf .last { border-bottom: 0; margin-bottom, padding-bottom: 0; }
+#bd .yui-gf.last { border-bottom: 0; margin-bottom, padding-bottom: 0; }
 /* -- To set left side of body to 1/8 -- */
 #inner .yui-gf .yui-u{width:80.2%;}
 #inner .yui-gf div.first{width:15%;}
