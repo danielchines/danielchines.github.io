@@ -43,16 +43,18 @@ a#pdf:hover { background: #222; }
 
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 #bd .job h4 { position: absolute; top: 0.35em; right: 0 }
+#bd .job h3 { font-style: italic; }
 #bd .job p { margin: 0.75em 0 2em 0; }
 
 
-#bd li.job { margin: 0.75em 0 2em 1.2em; padding: 0; list-style-type: disc; border-bottom: none; }
+#bd li.job { margin: 0 0 0 1.2em; padding: 0; list-style-type: disc; border-bottom: none; }
+#bd .job .last { border-bottom: none; margin-bottom: 10px; }
 #bd .last { border: none; margin-bottom, padding-bottom: 0; }
 #bd .skills-list {  }
 #bd .skills-list ul { margin: 0; }
 #bd .skills-list li { margin: 3px 0; padding: 3px 0; }
 #bd .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
-#bd .talent { margin-top: 0; width: 32%; float: left }
+#bd .talent { margin-top: 0; width: 32%; float: right }
 #bd .talent h2 { margin-bottom: 6px; }
 
 #srt-ttab { margin-bottom: 100px; text-align: center;  }
