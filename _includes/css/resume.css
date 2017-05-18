@@ -17,14 +17,14 @@ body #inner { font-family: Georgia; color: #444; }
 #bd, #ft { margin-bottom: 2em; }
 
 /* //-- footer -- */
-#ft { padding: 1em 0 5em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
+#ft { padding: 1em 0 3em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
 #ft p { margin-bottom: 0; text-align: center;   }
 p.resume { font-size: 100%; line-height: 18px; }
 /* //-- core typography and style -- */
 #hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
-#doc2 h2 { font-size: 152%; }
-#doc2 h3, h4 { font-size: 122%;}
-#inner h1, h2, h3, h4 { color: #333; font-family: Georgia; text-transform: none; font-weight: normal; padding: 0;}
+#doc2 h2 { font-size: 152%; font-family: Georgia; text-transform: none; font-weight: normal; padding: 0;}
+#doc2 h3, h4 { font-size: 122%; font-family: Georgia; text-transform: none; font-weight: normal; padding: 0;}
+#inner h1, h2, h3, h4 { color: #333; }
 #doc2 .yui-t7 { padding-right: 0; }
 #doc2 a { color: #008b8b }
 #doc2 a:hover { text-decoration: none; }
