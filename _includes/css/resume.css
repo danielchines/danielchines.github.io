@@ -54,7 +54,7 @@ a#pdf:hover { background: #222; }
 .education ul { margin-top: 0.75em; }
 .coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; margin-top: 2em; }
 .education .coursework h3 { width: 222px; float: left; font-weight: bold; }
-.education .coursework h4 { position: absolute; padding-right: 39px; width: 393px; }
+.education .coursework h4 { position: absolute; width: 393px; }
 .coursework .last { padding-bottom: 4em; }
 
 /* //-- Experience/Jobs -- */
