@@ -33,9 +33,7 @@ a#pdf:hover { background: #222; }
 
 /* //-- footer -- */
 #ft { padding: 1em 0 3em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
-#ft p { margin-bottom: 0; text-align: center;   }
-
-#bd, #ft { margin-bottom: 2em; }
+#ft p { margin-bottom: 0; text-align: center; }
 
 /* //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 #bd .last { border: none; margin-bottom, padding-bottom: 0; }
