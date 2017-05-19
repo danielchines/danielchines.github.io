@@ -50,13 +50,13 @@ a#pdf:hover { background: #222; }
 #bd .education h4 { position: absolute; top: 0.35em; right: 0 }
 #bd .education { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 #bd li.education { margin: 0 0 10px 1.2em; line-height: 15px; padding: 0; list-style-type: disc; border-bottom: none; }
-#bd .education.last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
+#bd .education.last { border-bottom: none; margin-bottom: 1em; padding-bottom: 0px; }
 .education ul { margin-top: 0.75em; }
 .coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; margin-top: 1em; }
 .education .coursework h3 { width: 222px; float: left; font-weight: bold; }
 #bd .education .coursework h4 { position: absolute; width: 434px; top: 2px; }
 .coursework .last { padding-bottom: 4em; }
-p.education-p { margin-top: 10px; font-size: 100%; line-height: 18px; }
+p.education-p { margin-top: 12px; font-size: 100%; line-height: 18px; }
 
 /* //-- Experience/Jobs -- */
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
