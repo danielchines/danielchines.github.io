@@ -89,9 +89,23 @@ header .header-col {
         font-weight: 400;
     }
 }
+/*Mobile*/
 @media(max-width:767px) {
     header {
         padding-top: 75px;
+    }
+    header .intro-text .name {
+    padding-top: 0px;
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2.5em;
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(255,255,255,.2);
+    }
+    section p.about-p {
+        font-size: 13px;
     }
 }
 
@@ -207,7 +221,7 @@ section h2.white {
 .row .about-p {
     font-size: 18px;
     text-align: center;
-    width: 875px;
+    max-width: 875px;
     margin: 15px auto;
     line-height: 1.6;
 }
