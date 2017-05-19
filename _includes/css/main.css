@@ -89,6 +89,11 @@ header .header-col {
         font-weight: 400;
     }
 }
+@media(max-width:767px) {
+    header {
+        padding-top: 75px;
+    }
+}
 
 .list-inline {
     padding-left: 0;
