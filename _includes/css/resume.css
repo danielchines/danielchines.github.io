@@ -65,7 +65,7 @@ p.education-p { margin-top: 12px; font-size: 100%; line-height: 18px; }
 #bd .job p { margin: 0.75em 3em 2em 0; }
 .job ul { margin-top: 0.75em; }
 #bd li.job { margin: 0 0 10px 1.2em; line-height: 15px; padding: 0; list-style-type: disc; border-bottom: none; }
-#bd li.job.last { border-bottom: none; margin: 0.75em 4em 2em 0; padding-bottom: 0px; }
+#bd li.job.last { border-bottom: none; margin: 0.75em 4em 2em 1.2em; padding-bottom: 0px; }
 
 /* //-- Languages -- */
 #bd .talent { margin-top: 0; width: 32%; float: right }
