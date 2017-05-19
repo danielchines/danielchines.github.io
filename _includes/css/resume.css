@@ -28,7 +28,7 @@ p.resume { font-size: 100%; line-height: 18px; }
 #hd .yui-gc div.name { margin-left: 0; width: 66%; float: left; }
 #hd .yui-gc div.contact { margin-left: 1.99%; width: 32%; float: right; }
 #hd .contact-info { margin-top: 7px; }
-a#pdf { display: block; float: left; text-align: center; background: #228e8e; color: white; padding: 10px 55px; margin-bottom: 6px; margin-top: -5px; border-radius: 3px; text-decoration: none;  }
+a#pdf { display: block; float: left; text-align: center; background: #068c88; color: white; padding: 10px 54px; margin-bottom: 6px; margin-top: -5px; border-radius: 3px; text-decoration: none;  }
 a#pdf:hover { background: #222; }
 
 /* //-- footer -- */
