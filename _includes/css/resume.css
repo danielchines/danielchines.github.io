@@ -56,7 +56,7 @@ a#pdf:hover { background: #222; }
 .education .coursework h3 { width: 222px; float: left; font-weight: bold; }
 #bd .education .coursework h4 { position: absolute; width: 434px; top: 2px; }
 .coursework .last { padding-bottom: 4em; }
-p.education { margin-top: 10px }
+p.education-p { margin-top: 10px; font-size: 100%; line-height: 18px; }
 
 /* //-- Experience/Jobs -- */
 #bd .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
