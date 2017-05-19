@@ -52,7 +52,7 @@ a#pdf:hover { background: #222; }
 #bd li.education { margin: 0 0 10px 1.2em; line-height: 15px; padding: 0; list-style-type: disc; border-bottom: none; }
 #bd .education.last { border-bottom: none; margin-bottom: 2em; padding-bottom: 0px; }
 .education ul { margin-top: 0.75em; }
-.coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; margin-top: 1em; }
+.coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; margin-top: 2em; }
 .education .coursework h3 { width: 222px; float: left; font-weight: bold; }
 .education .coursework h4 { position: absolute; right: 20px; width: 350px; }
 .coursework .last { padding-bottom: 4em; }
