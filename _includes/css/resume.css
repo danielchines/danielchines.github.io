@@ -15,8 +15,8 @@ p.resume { font-size: 100%; line-height: 18px; }
 
 /*Mobile*/
 @media(max-width:767px) {
-    #doc2 .yui-t7 { width: 100%; }
-    #inner { padding: 0 30px; }
+    #doc2 .yui-t7 { max-width: 100%; }
+    #inner { padding: 10px 30px; }
     #bd .first h2 { margin-left: -40px; }
     #bd .education .coursework h4 { position: relative; width: 434px; top: 2px; }
     #hd h1 { font-size: 6vw; }
