@@ -17,6 +17,14 @@ p.resume { font-size: 100%; line-height: 18px; }
 @media(max-width:767px) {
     #doc2 { min-width: 40em; margin-left: 5px; margin-right: 5px; }
     #bd .first h2 { margin-left: -40px; }
+    #bd .education .coursework h4 { position: relative; width: 434px; top: 2px; }
+    #hd h1 { font-size: 6vw; }
+    #hd h2 { font-size: 2.4vw }
+    #inner h2 { font-size: 3vw; }
+    #inner h3, h4 { font-size: 2.4vw; }
+    #inner p { font-size: 2vw }
+    #doc2 li { line-height: 24px; font-size: 2vw; }
+    
 }
 
 #doc2 .yui-t7 { padding-right: 0; }
