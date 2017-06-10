@@ -24,14 +24,15 @@ p.resume { font-size: 100%; line-height: 18px; }
     #inner { padding: 10px 30px; }
     a#pdf { padding: 10px 40px; }
     #bd .first h2 { margin-left: 0px; }
+    p.resume { line-height: 3vw; }
     #bd .education .coursework h4 { width: 55%; top: 2px; font-size: 2.4vw;}
     #hd h1 { font-size: 6vw; }
     #hd h2 { font-size: 2.4vw }
     #inner h2 { font-size: 3vw; }
     #inner h3, h4 { font-size: 2.4vw; }
     #inner p { font-size: 2vw }
-    #doc2 li { line-height: 24px; font-size: 2vw; }
-    
+    #doc2 li {  font-size: 2vw; }
+    #bd li.job.last { line-height: 3vw; }
 }
 
 #doc2 .yui-t7 { padding-right: 0; }
