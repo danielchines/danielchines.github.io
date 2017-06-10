@@ -15,6 +15,7 @@ p.resume { font-size: 100%; line-height: 18px; }
 
 @media(min-width:768px) {
     doc2 .yui { min-width: 73em }
+    #bd .education .coursework h4 { position: absolute; width: 434px; top: 2px; }
 }
 
 /*Mobile*/
@@ -22,7 +23,7 @@ p.resume { font-size: 100%; line-height: 18px; }
     #doc2 .yui-t7 { max-width: 100%; }
     #inner { padding: 10px 30px; }
     #bd .first h2 { margin-left: -40px; }
-    #bd .education .coursework h4 { position: relative; width: 434px; top: 2px; }
+    #bd .education .coursework h4 { width: 55%; top: 2px; font-size: 2.4vw;}
     #hd h1 { font-size: 6vw; }
     #hd h2 { font-size: 2.4vw }
     #inner h2 { font-size: 3vw; }
@@ -71,7 +72,6 @@ a#pdf:hover { background: #222; }
 .education ul { margin-top: 0.75em; }
 .coursework { position: relative; margin-bottom: 1em; padding-bottom: 1em; margin-top: 1em; }
 .education .coursework h3 { width: 222px; float: left; font-weight: bold; }
-#bd .education .coursework h4 { position: absolute; width: 434px; top: 2px; }
 .coursework .last { padding-bottom: 4em; }
 p.education-p { margin-top: 12px; font-size: 100%; line-height: 18px; }
 
